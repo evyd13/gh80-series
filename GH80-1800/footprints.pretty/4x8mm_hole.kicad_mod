@@ -1,0 +1,9 @@
+(module 4x8mm_hole (layer F.Cu) (tedit 5B0C645C)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 4x8mm_hole (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 8 4) (drill oval 8 4) (layers *.Cu *.Mask))
+)
