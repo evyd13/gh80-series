@@ -15,29 +15,29 @@ Keeb_components
 4
 Keeb_components
 ATMEGA32U2
-32-Lead{space}Plastic{space}Thin{space}Quad{space}Flatpack{space}(PT){space}-{space}7x7x1.0{space}mm{space}Body,{space}2.00{space}mm{space}[TQFP]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
-QFP{space}0.8
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
 0
 32
 32
 Keeb_components
 ATMEGA32U2-MU
-QFN,{space}32{space}Pin{space}(http://infocenter.nordicsemi.com/pdf/nRF52810_PS_v1.1.pdf{space}(Page{space}468)),{space}generated{space}with{space}kicad-footprint-generator{space}ipc_dfn_qfn_generator.py
-QFN{space}DFN_QFN
+QFN, 32 Pin (http://infocenter.nordicsemi.com/pdf/nRF52810_PS_v1.1.pdf (Page 468)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
 0
 42
 32
 Keeb_components
 ATMEGA32U4
-44-Lead{space}Plastic{space}Thin{space}Quad{space}Flatpack{space}(PT){space}-{space}10x10x1.0{space}mm{space}Body{space}[TQFP]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
-QFP{space}0.8
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
 0
 44
 44
 Keeb_components
 ATMEGA32U4-MU
-QFN,{space}44{space}Pin{space}(http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17),{space}generated{space}with{space}kicad-footprint-generator{space}ipc_noLead_generator.py
-QFN{space}NoLead
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
 0
 61
 44
@@ -50,29 +50,29 @@ Arduino_micro
 34
 Keeb_components
 C_0603
-Diode{space}SMD{space}0603{space}(1608{space}Metric),{space}square{space}(rectangular){space}end{space}terminal,{space}IPC_7351{space}nominal,{space}(Body{space}size{space}source:{space}http://www.tortai-tech.com/upload/download/2011102023233369053.pdf),{space}generated{space}with{space}kicad-footprint-generator
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
 0
 2
 2
 Keeb_components
 C_0603_nosilk
-Diode{space}SMD{space}0603{space}(1608{space}Metric),{space}square{space}(rectangular){space}end{space}terminal,{space}IPC_7351{space}nominal,{space}(Body{space}size{space}source:{space}http://www.tortai-tech.com/upload/download/2011102023233369053.pdf),{space}generated{space}with{space}kicad-footprint-generator
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
 0
 2
 2
 Keeb_components
 C_0805
-Capacitor{space}SMD{space}0805,{space}reflow{space}soldering,{space}AVX{space}(see{space}smccp.pdf)
-capacitor{space}0805
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
 0
 2
 2
 Keeb_components
 C_1206
-Capacitor{space}SMD{space}1206,{space}reflow{space}soldering,{space}AVX{space}(see{space}smccp.pdf)
-capacitor{space}1206
+Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)
+capacitor 1206
 0
 2
 2
@@ -85,7 +85,7 @@ DIN-6
 6
 Keeb_components
 D_0603
-Diode{space}SMD{space}0603{space}(1608{space}Metric),{space}square{space}(rectangular){space}end{space}terminal,{space}IPC_7351{space}nominal,{space}(Body{space}size{space}source:{space}http://www.tortai-tech.com/upload/download/2011102023233369053.pdf),{space}generated{space}with{space}kicad-footprint-generator
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
 0
 2
@@ -106,15 +106,15 @@ D_DO35
 2
 Keeb_components
 F_0603
-Diode{space}SMD{space}0603{space}(1608{space}Metric),{space}square{space}(rectangular){space}end{space}terminal,{space}IPC_7351{space}nominal,{space}(Body{space}size{space}source:{space}http://www.tortai-tech.com/upload/download/2011102023233369053.pdf),{space}generated{space}with{space}kicad-footprint-generator
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
 0
 2
 2
 Keeb_components
 F_0805
-Resistor{space}SMD{space}0805,{space}reflow{space}soldering,{space}Vishay{space}(see{space}dcrcw.pdf)
-resistor{space}0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
 0
 2
 2
@@ -148,8 +148,8 @@ HRO_K2-1845SA-D4SW-04
 2
 Keeb_components
 JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal
-JST{space}SH{space}series{space}connector,{space}SM04B-SRSS-TB{space}(http://www.jst-mfg.com/product/pdf/eng/eSH.pdf),{space}generated{space}with{space}kicad-footprint-generator
-connector{space}JST{space}SH{space}top{space}entry
+JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
 0
 6
 5
@@ -162,15 +162,15 @@ LED_0805
 2
 Keeb_components
 LED_D3.0mm
-LED,{space}diameter{space}3.0mm,{space}2{space}pins
-LED{space}diameter{space}3.0mm{space}2{space}pins
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
 0
 2
 2
 Keeb_components
 LED_WS2812B-MINI
 https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
-LED{space}RGB{space}NeoPixel{space}Mini
+LED RGB NeoPixel Mini
 0
 4
 4
@@ -183,43 +183,43 @@ LTST-A683CEGBW
 4
 Keeb_components
 ProMicro
-Pro{space}Micro{space}footprint
-promicro{space}ProMicro
+Pro Micro footprint
+promicro ProMicro
 0
 24
 24
 Keeb_components
 R_0603
-Diode{space}SMD{space}0603{space}(1608{space}Metric),{space}square{space}(rectangular){space}end{space}terminal,{space}IPC_7351{space}nominal,{space}(Body{space}size{space}source:{space}http://www.tortai-tech.com/upload/download/2011102023233369053.pdf),{space}generated{space}with{space}kicad-footprint-generator
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
 0
 2
 2
 Keeb_components
 R_0805
-Resistor{space}SMD{space}0805,{space}reflow{space}soldering,{space}Vishay{space}(see{space}dcrcw.pdf)
-resistor{space}0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
 0
 2
 2
 Keeb_components
 Resonator_SMD_muRata_CSTNExxV-3Pin-p1.2
-SMD{space}Resomator/Filter{space}Murata{space}CSTCE,{space}https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
-SMD{space}SMT{space}ceramic{space}resonator{space}filter
+SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
+SMD SMT ceramic resonator filter
 0
 3
 3
 Keeb_components
 Resonator_SMD_muRata_CSTxExxV-3Pin
-SMD{space}Resomator/Filter{space}Murata{space}CSTCE,{space}https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
-SMD{space}SMT{space}ceramic{space}resonator{space}filter
+SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
+SMD SMT ceramic resonator filter
 0
 3
 3
 Keeb_components
 RotaryEncoder_Alps_EC11
-Alps{space}rotary{space}encoder,{space}EC12E...{space}with{space}switch,{space}vertical{space}shaft,{space}http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary{space}encoder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
 0
 7
 6
@@ -239,7 +239,7 @@ SK6812MINI-E_switch
 4
 Keeb_components
 SOT-23
-SOT-23,{space}Standard
+SOT-23, Standard
 SOT-23
 0
 3
@@ -274,15 +274,15 @@ U-M-M5DD-W-1
 6
 Keeb_components
 USBLC6-2SC6
-6-pin{space}SOT-23{space}package
+6-pin SOT-23 package
 SOT-23-6
 0
 6
 6
 Keeb_components
 USB_Micro-B
-Micro{space}USB{space}Type{space}B{space}Receptacle
-USB{space}USB_B{space}USB_micro{space}USB_OTG
+Micro USB Type B Receptacle
+USB USB_B USB_micro USB_OTG
 0
 9
 6
@@ -296,7 +296,7 @@ USB_Micro_5S
 Keeb_components
 USB_Mini_SMD
 http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB{space}miniB{space}hirose
+USB miniB hirose
 0
 9
 6
@@ -344,21 +344,21 @@ WS2818M_CPC8
 8
 Keeb_components
 aanzee_big
-Imported{space}from{space}.\AFAanzee{space}symbol.svg
+Imported from .\AFAanzee symbol.svg
 svg2mod
 0
 0
 0
 Keeb_components
 aanzee_small
-Imported{space}from{space}.\AFAanzee{space}logo.svg
+Imported from .\AFAanzee logo.svg
 svg2mod
 0
 0
 0
 Keeb_components
 crystal_FA238-TSX3225
-crystal{space}Epson{space}Toyocom{space}FA-238{space}and{space}TSX-3225{space}series
+crystal Epson Toyocom FA-238 and TSX-3225 series
 
 0
 4
@@ -386,15 +386,15 @@ hybrid_RESISTOR
 2
 Keeb_components
 isp
-Through{space}hole{space}straight{space}pin{space}header,{space}1x06,{space}2.54mm{space}pitch,{space}single{space}row
-Through{space}hole{space}pin{space}header{space}THT{space}1x06{space}2.54mm{space}single{space}row
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
 0
 6
 6
 Keeb_components
 isp_standard
-Through{space}hole{space}straight{space}pin{space}header,{space}2x03,{space}2.54mm{space}pitch,{space}double{space}rows
-Through{space}hole{space}pin{space}header{space}THT{space}2x03{space}2.54mm{space}double{space}row
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
 0
 6
 6
